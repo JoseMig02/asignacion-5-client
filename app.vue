@@ -1,6 +1,9 @@
+<script setup lang="ts">
+
+</script>
+
 <template>
   <div>
-   
-    <Nomina/>
+   <TSSForm/>
   </div>
 </template>
